@@ -6,7 +6,7 @@ Quotable is an intuitive application designed to generate accurate subtitles for
 - [Picovoice Access Key](https://picovoice.ai/)
 - [ffmpeg](https://ffmpeg.org/)
 
-Picovoice is a company specializing in speech-related AI processing. PvLeopard, their speech-to-text engine, serves as the backend for Quotable. In order to use Quotable, you must first navigate to their website and sign up for a free account. You can then obtain an access key and make use of up to a hundred free processing hours per month.
+Picovoice is a company specializing in speech-related AI processing. PvLeopard, their speech-to-text engine, serves as the backend for Quotable. In order to use Quotable, you must first navigate to their website and sign up for a free account. You can then obtain an access key and make use of up to a 25 free processing hours per month.
 
 ## Usage
 ```python
